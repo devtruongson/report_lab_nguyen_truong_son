@@ -1,0 +1,20 @@
+Đây là hướng dẫn để chạy dự án Hệ thống Quản lý Bệnh viện (HMS):
+
+1. Tải xuống file nén (zip).
+
+2. Giải nén file và sao chép thư mục hospital.
+
+3. Dán vào thư mục gốc (đối với xampp: xampp/htdocs, đối với wamp: wamp/www, đối với lamp: var/www/html).
+
+4. Mở PHPMyAdmin (http://localhost/phpmyadmin).
+
+5. Tạo một cơ sở dữ liệu với tên là hms.
+
+6. Nhập file hms.sql (có trong thư mục SQL file trong gói nén) vào cơ sở dữ liệu.
+
+7. Chạy script tại địa chỉ http://localhost/hospital (giao diện trước).
+
+Thông tin đăng nhập:
+- Đối với quản trị viên: admin/123456
+- Đối với bệnh nhân: test@gmail.com/123456
+- Đối với bác sĩ: anuj.lpu1@gmail.com/123456
